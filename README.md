@@ -11,4 +11,4 @@ Completed a beginner docker course from Tech Trivandrum yt channel. Nice and sim
 * Pushing and pulling images
 
 # MY REVIEW 
-* Such an amazing course. best option for beginners. 
+Such an amazing course. best option for beginners. 
